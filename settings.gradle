@@ -1,0 +1,2 @@
+include ':multiselectphoto', ':demo'
+project(':demo').projectDir = new File('app')
